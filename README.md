@@ -1,6 +1,6 @@
 [PROJECT LINK](https://tayfuntop-verde-project.surge.sh/)
 
-# VERDE PROJECT 
+# VERDE CASE
 
 ## 🛠  Technologies and tools
 
